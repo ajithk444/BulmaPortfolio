@@ -1,2 +1,2 @@
-# Portfolio build with <3 Bulma
+# Portfolio built with :heart: Bulma
 A portfolio/resume  website created with Bulma. Live demo available at https://ajith.page
